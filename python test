@@ -1,0 +1,6 @@
+import.time()
+
+
+word == "type in 1 word."
+print ("you typed" +word+ "is this correct?")
+time.sleep(3000)
